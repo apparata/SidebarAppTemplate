@@ -10,6 +10,10 @@ This app is released into the public domain under The Unlicense. See LICENSE fil
 
 This is a Github template repository that you can create your new repository from by clicking the big green "Use this template" button on Github.
 
+Here's a screenshot:
+
+![Sidebar App](https://user-images.githubusercontent.com/384210/169694882-42e7bb8c-c576-42a8-a6ac-bb2794c76f95.png)
+
 What you get is an Xcode project with boilerplate code for a SwiftUI-based macOS app with a few things already set up:
 
 - A sidebar plus a button and menu options for toggling the sidebar.
@@ -21,7 +25,3 @@ What you get is an Xcode project with boilerplate code for a SwiftUI-based macOS
 - A custom menu for arbitrary menu options.
 - An Export menu option replacement.
 - A tabbed settings window.
-
-Here's a screenshot:
-
-![Sidebar App](https://user-images.githubusercontent.com/384210/169694882-42e7bb8c-c576-42a8-a6ac-bb2794c76f95.png)
