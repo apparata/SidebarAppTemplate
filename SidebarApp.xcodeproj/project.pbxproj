@@ -11,7 +11,7 @@
 		4180AEB22839753F0054FEA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4180AEB12839753F0054FEA9 /* Assets.xcassets */; };
 		4180AEB52839753F0054FEA9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4180AEB42839753F0054FEA9 /* Preview Assets.xcassets */; };
 		4180AEBD283975670054FEA9 /* MainScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180AEBC283975670054FEA9 /* MainScene.swift */; };
-		4180AEC0283976740054FEA9 /* SettingsTabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180AEBF283976740054FEA9 /* SettingsTabs.swift */; };
+		4180AEC0283976740054FEA9 /* SettingsWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180AEBF283976740054FEA9 /* SettingsWindow.swift */; };
 		4180AEC2283976F80054FEA9 /* GeneralSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180AEC1283976F80054FEA9 /* GeneralSettingsView.swift */; };
 		4180AEC4283979530054FEA9 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180AEC3283979530054FEA9 /* MainView.swift */; };
 		4180AEC7283979FA0054FEA9 /* Sidebar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180AEC6283979FA0054FEA9 /* Sidebar.swift */; };
@@ -51,7 +51,7 @@
 		4180AEB42839753F0054FEA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4180AEB62839753F0054FEA9 /* SidebarApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SidebarApp.entitlements; sourceTree = "<group>"; };
 		4180AEBC283975670054FEA9 /* MainScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScene.swift; sourceTree = "<group>"; };
-		4180AEBF283976740054FEA9 /* SettingsTabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsTabs.swift; sourceTree = "<group>"; };
+		4180AEBF283976740054FEA9 /* SettingsWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsWindow.swift; sourceTree = "<group>"; };
 		4180AEC1283976F80054FEA9 /* GeneralSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralSettingsView.swift; sourceTree = "<group>"; };
 		4180AEC3283979530054FEA9 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		4180AEC6283979FA0054FEA9 /* Sidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sidebar.swift; sourceTree = "<group>"; };
@@ -144,7 +144,7 @@
 		4180AEBE283976620054FEA9 /* Settings */ = {
 			isa = PBXGroup;
 			children = (
-				4180AEBF283976740054FEA9 /* SettingsTabs.swift */,
+				4180AEBF283976740054FEA9 /* SettingsWindow.swift */,
 				4180AEC1283976F80054FEA9 /* GeneralSettingsView.swift */,
 			);
 			path = Settings;
@@ -368,7 +368,7 @@
 				4180AF0F283A50660054FEA9 /* MenuBarButton.swift in Sources */,
 				4180AEF32839A0950054FEA9 /* Bundle+Copyright.swift in Sources */,
 				4180AED028397DB00054FEA9 /* MoreStuffPane.swift in Sources */,
-				4180AEC0283976740054FEA9 /* SettingsTabs.swift in Sources */,
+				4180AEC0283976740054FEA9 /* SettingsWindow.swift in Sources */,
 				4180AED9283983150054FEA9 /* SidebarFooter.swift in Sources */,
 				4180AEFE2839A3B30054FEA9 /* AttributionsWindow.swift in Sources */,
 				4180AEE728399E160054FEA9 /* MyCommands.swift in Sources */,
