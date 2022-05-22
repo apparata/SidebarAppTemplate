@@ -1,0 +1,40 @@
+################################
+### Xcode project .gitignore ###
+################################
+
+### macOS ###
+
+.DS_Store
+
+### User settings and such ###
+
+xcuserdata/
+*.xcworkspace
+!default.xcworkspace
+
+### Build Artifacts ###
+
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.xccheckout
+build/
+
+### Swift Package Manager ###
+
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.build/
+
+### Playgrounds ###
+
+timeline.xctimeline
+playground.xcworkspace
