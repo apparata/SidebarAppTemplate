@@ -24,3 +24,4 @@ What you get is an Xcode project with boilerplate code for a SwiftUI-based macOS
 
 Here's a screenshot:
 
+![Sidebar App](https://user-images.githubusercontent.com/384210/169694882-42e7bb8c-c576-42a8-a6ac-bb2794c76f95.png)
