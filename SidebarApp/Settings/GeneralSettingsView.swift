@@ -10,7 +10,7 @@ struct GeneralSettingsTab: View {
                 TextField("Name:", text: $name, onCommit: {
                     print("On commit!")
                 })
-                Text("This should descript the text field.")
+                Text("This should describe the text field.")
                     .font(.caption)
                 Button("Apply", action: {
                     print("Apply!")
