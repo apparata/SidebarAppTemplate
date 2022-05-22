@@ -25,7 +25,3 @@ struct MainScene: Scene {
         }
     }
 }
-
-private func showAboutWindow() {
-    
-}
